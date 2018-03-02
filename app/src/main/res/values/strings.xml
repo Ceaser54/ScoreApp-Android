@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Football Game App</string>
+    <string name="TeamA">TeamA</string>
+    <string name="TeamB">TeamB</string>
+    <string name="TheScore">0</string>
+    <string name="addOne">+1 Point</string>
+    <string name="addTwo">+2 Point</string>
+    <string name="addThree">+3 Point</string>
+    <string name="addFour">+4 Point</string>
+    <string name="Reset">Reset</string>
+</resources>
